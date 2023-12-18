@@ -1,0 +1,15 @@
+.cardWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 250px;
+}
+.textWrapper {
+  gap: 5px;
+  align-items: center;
+}
+.linkStyle{
+    display: flex;
+    gap: 10px;
+}
